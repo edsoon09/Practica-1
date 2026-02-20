@@ -1,0 +1,42 @@
+# ¿Por qué es más eficiente lanzar cohetes desde el ecuador que desde otras latitudes?
+
+## Introducción
+
+El lanzamiento de cohetes desde el ecuador es significativamente más eficiente que desde otras latitudes debido a factores físicos fundamentales relacionados con la rotación terrestre. Esta ventaja ha influido en decisiones estratégicas de agencias espaciales y empresas privadas en todo el mundo.
+
+## La velocidad rotacional de la Tierra
+
+![Rotación de la Tierra](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rotating_globe.gif/220px-Rotating_globe.gif)
+
+La Tierra completa una rotación cada 24 horas. Sin embargo, la velocidad lineal en la superficie varía según la latitud. En el ecuador, esta velocidad es máxima, aproximadamente **465 metros por segundo** (1.674 km/h). A medida que nos alejamos hacia los polos, la velocidad disminuye considerablemente.
+
+### Ventaja energética
+
+Cuando un cohete se lanza desde el ecuador hacia el este, aprovecha esta velocidad rotacional. Un cohete de 1.000 kg lanzado desde el ecuador obtiene "gratis" una velocidad inicial de 465 m/s, lo que reduce significativamente el combustible necesario para alcanzar la velocidad orbital.
+
+## Órbita ecuatorial vs otras órbitas
+
+Las órbitas ecuatoriales son las más energéticamente eficientes. Un satélite lanzado hacia el este desde el ecuador requiere menos energía para alcanzar una órbita geoestacionaria (a 36.000 km de altitud) que un satélite lanzado desde otras latitudes.
+
+## Consecuencias económicas
+
+Esta ventaja física se traduce en:
+- **Reducción de combustible**: Hasta un 10% menos de propelente
+- **Aumento de carga útil**: Más espacio para satélites o instrumentos
+- **Menor costo de operación**: Menos energía = menor gasto económico
+
+## Ejemplos reales
+
+La **Agencia Espacial Europea** decidió construir el Centro Espacial Guayanés en la Guayana Francesa, apenas 5° al norte del ecuador, específicamente para aprovechar esta ventaja. De igual forma, SpaceX considera ubicaciones ecuatoriales para sus futuras instalaciones.
+
+## Conclusión
+
+La eficiencia del lanzamiento desde el ecuador no es una coincidencia, sino una consecuencia directa de la física. Esta ventaja ha moldeado la industria espacial moderna y continuará siendo relevante en futuras misiones espaciales.
+
+---
+
+## Referencias
+
+- NASA. (2024). *Orbital Mechanics Basics*. https://www.nasa.gov
+- European Space Agency. (2023). *Launch Site Selection*. https://www.esa.int
+- McDowell, J. (2022). *Space Launch Report*. Jonathan's Space Report.

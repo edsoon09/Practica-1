@@ -1,0 +1,89 @@
+# ¿Qué diferencias existen entre un motor de combustible sólido y uno de combustible líquido?
+
+## Introducción
+
+Los motores cohete utilizan combustible sólido o líquido, cada uno con ventajas y desventajas distintas. Estas diferencias impactan el diseño, costo, seguridad y aplicaciones de los sistemas de propulsión espacial.
+
+## Motores de combustible sólido
+
+![Motor de combustible sólido](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Solid_rocket_booster_ignition_comparison.jpg/400px-Solid_rocket_booster_ignition_comparison.jpg)
+
+### Características
+
+El combustible sólido es una mezcla de:
+- **Oxidante**: Perclorato de amonio
+- **Combustible**: Aluminio en polvo
+- **Aglutinante**: Caucho polimérico
+
+Esta mezcla se compacta en un cilindro (grano) y se almacena de forma estable.
+
+### Ventajas
+
+- **Almacenamiento seguro**: No requiere sistemas de refrigeración complejos
+- **Mayor densidad energética**: Más potencia por unidad de volumen
+- **Impulso específico alto**: 260-290 segundos
+- **Simplicidad operacional**: Encendido directo sin sistemas auxiliares
+- **Costo inicial menor**: Diseño más sencillo
+
+### Desventajas
+
+- **No controlable**: Una vez encendido, no se puede apagar
+- **Menor precisión**: Difícil ajustar empuje durante el vuelo
+- **Riesgos de almacenamiento**: Degradación química a largo plazo
+- **Menos flexible**: No apto para múltiples igniciones
+
+## Motores de combustible líquido
+
+![Motor de combustible líquido](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/SpaceX_Merlin_engine.jpg/400px-SpaceX_Merlin_engine.jpg)
+
+### Características
+
+Utilizan dos tanques separados:
+- **Combustible**: Queroseno (RP-1) u otros hidrocarburos, o hidrógeno líquido
+- **Oxidante**: Oxígeno líquido, nitrógeno tetróxido
+
+Se mezclan en la cámara de combustión bajo presión controlada.
+
+### Ventajas
+
+- **Control total**: Se puede modular, apagar y reacelerar durante el vuelo
+- **Mayor eficiencia**: Impulso específico de 450+ segundos
+- **Flexibilidad**: Múltiples encendidos posibles
+- **Mejor desempeño**: Ideales para etapas superiores y maniobras
+- **Mejor relación empuje-peso**: Tecnología más madura
+
+### Desventajas
+
+- **Complejidad**: Sistemas de enfriamiento y presurización necesarios
+- **Requiere refrigeración**: Especialmente con combustibles criogénicos
+- **Costo operacional alto**: Procedimientos complejos de llenado
+- **Menor densidad energética por volumen**: Tanques más grandes
+- **Riesgos operacionales**: Manipulación de líquidos criogénicos peligrosos
+
+## Comparación directa
+
+| Característica | Combustible Sólido | Combustible Líquido |
+|---|---|---|
+| **Impulso específico** | 260-290 s | 450+ s |
+| **Controlabilidad** | No | Sí |
+| **Complejidad** | Baja | Alta |
+| **Seguridad almacenamiento** | Alta | Media |
+| **Costo inicial** | Bajo | Alto |
+| **Costo operacional** | Bajo | Alto |
+
+## Aplicaciones actuales
+
+- **Sólidos**: Cohetes de despegue, misiles balísticos, boosters
+- **Líquidos**: Etapas principales, etapas superiores, sistemas reutilizables
+
+## Conclusión
+
+No existe motor "superior" universalmente. Los sólidos ofrecen simplicidad y almacenamiento seguro; los líquidos ofrecen control y eficiencia. La elección depende de los requisitos específicos de la misión.
+
+---
+
+## Referencias
+
+- NASA. (2023). *Rocket Propulsion Elements* (9th ed.). Sutton & Biblarz.
+- SpaceX. (2024). *Merlin Engine Specifications*. https://www.spacex.com
+- ESA. (2023). *Propulsion Systems Guide*. https://www.esa.int

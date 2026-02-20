@@ -1,0 +1,119 @@
+# ¿Qué es la computación en la nube y cómo ha transformado el desarrollo de software?
+
+## Introducción
+
+La computación en la nube (cloud computing) es el acceso bajo demanda a recursos informáticos (servidores, almacenamiento, bases de datos, software) a través de internet, sin necesidad de infraestructura física local. Ha revolucionado cómo se desarrolla, prueba y despliega software.
+
+## ¿Qué es la computación en la nube?
+
+![Arquitectura de cloud computing](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cloud_computing.svg/500px-Cloud_computing.svg.png)
+
+### Características fundamentales
+
+- **Bajo demanda**: Obtener recursos cuando se necesitan
+- **Acceso por red**: Disponible desde cualquier lugar
+- **Escalabilidad**: Aumentar/reducir recursos dinámicamente
+- **Pago por uso**: Solo pagar lo que se consume
+- **Automatización**: Gestión mínima del usuario
+
+### Modelos de servicio
+
+**IaaS (Infrastructure as a Service)**: Máquinas virtuales, almacenamiento, redes. Ejemplo: AWS EC2
+
+**PaaS (Platform as a Service)**: Plataformas para desarrollar aplicaciones. Ejemplo: Heroku, Google App Engine
+
+**SaaS (Software as a Service)**: Aplicaciones accesibles por navegador. Ejemplo: Google Workspace, Salesforce
+
+## Impacto en el desarrollo de software
+
+### 1. Eliminación de infraestructura física
+
+**Antes**: Empresas debían comprar y mantener servidores costosos
+
+**Ahora**: Alquilan capacidad bajo demanda, reduciendo:
+- Inversión de capital en hardware
+- Costo de mantenimiento
+- Equipo técnico dedicado
+
+### 2. Escalabilidad automática
+
+La nube permite que aplicaciones crezcan sin límite:
+- **Startup pequeño**: Comienza con recursos mínimos, $50/mes
+- **Crecimiento**: Escala automáticamente sin cambios de código
+- **Carga variable**: Se ajusta automáticamente a picos de demanda
+
+Sin nube: requeriría rediseño de infraestructura.
+
+### 3. Desarrollo ágil y DevOps
+
+La nube facilita:
+- **Entornos de prueba**: Crear ambientes idénticos a producción fácilmente
+- **Integración continua**: Despliegues automáticos múltiples veces al día
+- **Testing**: Realizado en infraestructura real, no simulada
+- **Colaboración**: Equipos distribuidas pueden acceder a las mismas herramientas
+
+### 4. Reducción del tiempo de mercado
+
+- **Tiempo de instalación**: De semanas a minutos
+- **Experimentación**: Probar ideas rápidamente con bajo riesgo
+- **Rollback**: Volver a versión anterior instantáneamente
+
+Una startup puede lanzar producto en días, no meses.
+
+### 5. Seguridad y confiabilidad mejorada
+
+Proveedores de nube (AWS, Google, Azure):
+- **Redundancia**: Múltiples centros de datos
+- **Encriptación**: A nivel empresarial
+- **Cumplimiento normativo**: Certificaciones de seguridad
+- **Actualizaciones**: Automáticas, sin intervención del usuario
+
+Empresas pequeñas ahora tienen seguridad de nivel empresarial.
+
+### 6. Nuevas capacidades
+
+Servicios en la nube permiten funcionalidades antes inaccesibles:
+- **Machine Learning**: Modelos pre-entrenados disponibles
+- **Big Data**: Procesamiento de datos masivos
+- **Inteligencia artificial**: APIs listas para usar
+- **Serverless**: Código que escala sin gestionar servidores
+
+## Ejemplos de transformación
+
+### Netflix
+Migración de centros de datos propios a AWS permitió:
+- Escalar a millones de usuarios simultáneos
+- Implementar recomendaciones personalizadas
+- Reducir costo operacional significativamente
+
+### Spotify
+Usa Google Cloud para:
+- Procesar millones de streams diarios
+- Generar playlists personalizadas
+- Mantener servicio 99.99% disponible
+
+### Startups
+Empresas como Slack, Airbnb, Uber fueron posibles porque:
+- No necesitaban invertir en infraestructura inicial
+- Podían escalar sin límite
+- Enfocarse en producto, no en IT
+
+## Desafíos y consideraciones
+
+- **Vendor lock-in**: Dificultad para cambiar de proveedor
+- **Costo**: Mal planificado, puede exceder presupuesto
+- **Latencia**: Crítica para aplicaciones en tiempo real
+- **Privacidad**: Datos en servidores de terceros
+
+## Conclusión
+
+La computación en la nube ha democratizado el acceso a infraestructura de clase mundial, permitiendo que cualquier empresa, independientemente de tamaño, pueda desarrollar y desplegar software moderno, escalable y confiable. Ha transformado el desarrollo de software de una disciplina que requería grandes inversiones iniciales a un modelo flexible, escalable y accesible.
+
+---
+
+## Referencias
+
+- Armbrust, M., et al. (2010). *A View of Cloud Computing*. Communications of the ACM, 53(4), 50-58.
+- AWS. (2024). *Cloud Computing Essentials*. https://aws.amazon.com
+- Vogels, W. (2023). *Architecting for the Cloud*. All Things Distributed Blog.
+- Microsoft Azure. (2024). *Cloud Fundamentals*. https://azure.microsoft.com

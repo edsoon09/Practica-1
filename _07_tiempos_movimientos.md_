@@ -1,0 +1,115 @@
+# ¿Por qué es importante el estudio de tiempos y movimientos en una línea de producción?
+
+## Introducción
+
+El estudio de tiempos y movimientos, desarrollado por Frederick Taylor y Frank Gilbreth a principios del siglo XX, es fundamental para optimizar procesos productivos. Este análisis mide cuánto tiempo lleva cada operación y cómo se realizan los movimientos, identificando ineficiencias y mejoras.
+
+## Fundamentos del estudio
+
+![Análisis de movimientos en producción](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gilbreth_time_study.jpg/400px-Gilbreth_time_study.jpg)
+
+### Tiempo estándar
+
+El **tiempo estándar** es la duración normal que un trabajador capacitado debe invertir en una tarea bajo condiciones estándar. Se calcula como:
+
+**Tiempo Estándar = Tiempo Observado × Factor de Calificación + Tolerancias**
+
+Este valor es crucial para:
+- Establecer metas de producción
+- Asignar trabajadores a estaciones
+- Calcular costos de producción
+- Planificar capacidades
+
+### Análisis de movimientos
+
+Se descomponen operaciones en **movimientos elementales** (therbligs):
+- **Alcanzar**, **agarrar**, **mover**, **posicionar**, **ensamblar**, **soltar**
+
+Identificar movimientos innecesarios permite eliminar:
+- Movimientos improductivos
+- Distancias excesivas de alcance
+- Posturas incómodas o peligrosas
+
+## Beneficios específicos
+
+### 1. Mejora de productividad
+
+Al identificar y eliminar movimientos innecesarios:
+- **Reducción de tiempo**: 10-30% de mejora típica
+- **Mayor salida**: Más unidades producidas por hora-hombre
+- **Consistencia**: Variabilidad reducida entre operarios
+
+### 2. Optimización de costos
+
+- **Reducción de mano de obra**: Menos horas para la misma producción
+- **Menos defectos**: Mejor control de calidad
+- **Menor fatiga**: Menos accidentes laborales
+- **Menor costo unitario**: Mejora directa de márgenes
+
+### 3. Seguridad laboral
+
+El análisis identifica:
+- **Posturas ergonómicas inadecuadas**: Causas de lesiones
+- **Movimientos repetitivos excesivos**: Síndrome del túnel carpiano
+- **Riesgos identificables**: Antes de que causen daño
+
+### 4. Diseño de estaciones de trabajo
+
+Permite:
+- **Disposición óptima**: Herramientas al alcance adecuado
+- **Altura y posición**: Según antropometría del operario
+- **Secuencia lógica**: Movimientos fluidos sin interrupciones
+
+## Metodología práctica
+
+### Paso 1: Seleccionar operación
+
+Elegir tareas repetitivas, de alto volumen o problemáticas.
+
+### Paso 2: Observar y medir
+
+- Cronometar múltiples ciclos (mínimo 10-15)
+- Registrar movimientos
+- Documentar condiciones
+
+### Paso 3: Analizar
+
+- Eliminar movimientos innecesarios
+- Combinar operaciones cuando sea posible
+- Reordenar secuencias
+
+### Paso 4: Implementar mejoras
+
+- Diseñar nuevos procedimientos
+- Capacitar operarios
+- Validar tiempos mejorados
+
+## Ejemplo numérico
+
+En un proceso de empaque:
+- **Tiempo original**: 45 segundos por unidad
+- **Movimientos innecesarios identificados**: 8 segundos
+- **Tiempo mejorado**: 37 segundos por unidad
+- **Mejora**: 17.7%
+- **Impacto anual** (10.000 unidades): 22.2 horas de trabajo ahorradas
+
+## Consideraciones modernas
+
+Aunque desarrollado hace un siglo, sigue siendo relevante:
+- **Lean Manufacturing**: Basado en estos principios
+- **Six Sigma**: Utiliza análisis de tiempos para mejora
+- **Automatización**: Los estudios identifican tareas a automatizar
+
+Incluso en entornos digitales, el concepto se aplica a procesos de software.
+
+## Conclusión
+
+El estudio de tiempos y movimientos es una herramienta probada para mejorar eficiencia, reducir costos y mejorar condiciones laborales. Su aplicación sistemática genera beneficios tangibles y mensurables en operaciones de producción.
+
+---
+
+## Referencias
+
+- Barnes, R. M. (2005). *Motion and Time Study: Design and Measurement of Work* (7th ed.). Wiley.
+- Niebel, B. W., et al. (2013). *Methods, Standards, and Work Design* (13th ed.). McGraw-Hill.
+- Lean Enterprise Institute. (2023). *Lean Production Fundamentals*. https://www.lean.org
