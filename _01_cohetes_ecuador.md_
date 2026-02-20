@@ -1,45 +1,45 @@
-# ¿Por qué es más eficiente lanzar cohetes desde el ecuador que desde otras latitudes?
+¿Por qué es más eficiente lanzar cohetes desde el ecuador que desde otras latitudes?
 
-## Introducción
+Introducción.
 
 Lanzar cohetes desde el ecuador ofrece una clara ventaja sobre otras latitudes gracias a la rotación terrestre, que proporciona 
 velocidad inicial gratuita. Esto optimiza el consumo de combustible y maximiza la carga útil en misiones espaciales.
 
-## La velocidad rotacional de la Tierra
+La velocidad rotacional de la Tierra.
 
 La Tierra gira sobre su eje cada 24 horas, alcanzando su velocidad lineal máxima en el ecuador: unos 465 m/s (1674 km/h). 
 En latitudes altas, esta velocidad cae restrictiva hasta cero en los polos debido al menor círculo de rotación.
 
-### Ventaja energética
+Ventaja energética.
 
 Un lanzamiento hacia el este desde el ecuador suma esa velocidad rotacional a la del cohete, reduciendo la delta-v requerida 
 para órbita en hasta 465 m/s. Para un cohete típico, esto equivale a un ahorro del 10-15% en propelente, permitiendo más carga 
 útil o menor costo.
 
-## Órbita ecuatorial vs otras órbitas
+Órbita ecuatorial vs otras órbitas.
 
 Las órbitas geoestacionarias (a 36.000 km) son ideales desde el ecuador, ya que el plano orbital coincide con la rotación 
 terrestre, evitando costosos cambios de inclinación. Desde latitudes como 28° N, se necesitan maniobras extras que consumen 
 hasta 1-2 km/s adicionales.
 
-## Consecuencias económicas
+Consecuencias económicas.
 
 Esta ventaja física se traduce en:
 -Reducción de combustible : 10-15% menos propelente.
 -Aumento de carga útil : Hasta cientos de kg extras por misión.
 -Menor costo : Ahorros millonarios por lanzamiento, clave para empresas como SpaceX
 
-## Ejemplos reales
+Ejemplos reales.
 
 El Centro Espacial de Kourou (5° N) fue elegido por la ESA por esta ventaja, lanzando Ariane desde ahí. Ecuador también
 explora sitios ecuatoriales, mientras SpaceX evalúa opciones similares para Starship pese a su base en Texas.
 
-## Conclusión
+Conclusión.
 
 La física de la rotación terrestre hace del Ecuador el sitio óptimo para lanzamientos, influyendo en la geopolítica espacial 
 actual y futura
 
-## Referencias
+Referencias.
 
 -Noticia Latina. (2014, 16 de febrero). ¿Por qué es más ventajoso lanzar cohetes cerca del ecuador? 
 https://noticiaslatam.lat/20100216/125133250.html
