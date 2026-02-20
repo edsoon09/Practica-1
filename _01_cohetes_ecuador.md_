@@ -2,41 +2,48 @@
 
 ## Introducción
 
-El lanzamiento de cohetes desde el ecuador es significativamente más eficiente que desde otras latitudes debido a factores físicos fundamentales relacionados con la rotación terrestre. Esta ventaja ha influido en decisiones estratégicas de agencias espaciales y empresas privadas en todo el mundo.
+Lanzar cohetes desde el ecuador ofrece una clara ventaja sobre otras latitudes gracias a la rotación terrestre, que proporciona 
+velocidad inicial gratuita. Esto optimiza el consumo de combustible y maximiza la carga útil en misiones espaciales.
 
 ## La velocidad rotacional de la Tierra
 
-![Rotación de la Tierra](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rotating_globe.gif/220px-Rotating_globe.gif)
-
-La Tierra completa una rotación cada 24 horas. Sin embargo, la velocidad lineal en la superficie varía según la latitud. En el ecuador, esta velocidad es máxima, aproximadamente **465 metros por segundo** (1.674 km/h). A medida que nos alejamos hacia los polos, la velocidad disminuye considerablemente.
+La Tierra gira sobre su eje cada 24 horas, alcanzando su velocidad lineal máxima en el ecuador: unos 465 m/s (1674 km/h). 
+En latitudes altas, esta velocidad cae restrictiva hasta cero en los polos debido al menor círculo de rotación.
 
 ### Ventaja energética
 
-Cuando un cohete se lanza desde el ecuador hacia el este, aprovecha esta velocidad rotacional. Un cohete de 1.000 kg lanzado desde el ecuador obtiene "gratis" una velocidad inicial de 465 m/s, lo que reduce significativamente el combustible necesario para alcanzar la velocidad orbital.
+Un lanzamiento hacia el este desde el ecuador suma esa velocidad rotacional a la del cohete, reduciendo la delta-v requerida 
+para órbita en hasta 465 m/s. Para un cohete típico, esto equivale a un ahorro del 10-15% en propelente, permitiendo más carga 
+útil o menor costo.
 
 ## Órbita ecuatorial vs otras órbitas
 
-Las órbitas ecuatoriales son las más energéticamente eficientes. Un satélite lanzado hacia el este desde el ecuador requiere menos energía para alcanzar una órbita geoestacionaria (a 36.000 km de altitud) que un satélite lanzado desde otras latitudes.
+Las órbitas geoestacionarias (a 36.000 km) son ideales desde el ecuador, ya que el plano orbital coincide con la rotación 
+terrestre, evitando costosos cambios de inclinación. Desde latitudes como 28° N, se necesitan maniobras extras que consumen 
+hasta 1-2 km/s adicionales.
 
 ## Consecuencias económicas
 
 Esta ventaja física se traduce en:
-- **Reducción de combustible**: Hasta un 10% menos de propelente
-- **Aumento de carga útil**: Más espacio para satélites o instrumentos
-- **Menor costo de operación**: Menos energía = menor gasto económico
+-Reducción de combustible : 10-15% menos propelente.
+-Aumento de carga útil : Hasta cientos de kg extras por misión.
+-Menor costo : Ahorros millonarios por lanzamiento, clave para empresas como SpaceX
 
 ## Ejemplos reales
 
-La **Agencia Espacial Europea** decidió construir el Centro Espacial Guayanés en la Guayana Francesa, apenas 5° al norte del ecuador, específicamente para aprovechar esta ventaja. De igual forma, SpaceX considera ubicaciones ecuatoriales para sus futuras instalaciones.
+El Centro Espacial de Kourou (5° N) fue elegido por la ESA por esta ventaja, lanzando Ariane desde ahí. Ecuador también
+explora sitios ecuatoriales, mientras SpaceX evalúa opciones similares para Starship pese a su base en Texas.
 
 ## Conclusión
 
-La eficiencia del lanzamiento desde el ecuador no es una coincidencia, sino una consecuencia directa de la física. Esta ventaja ha moldeado la industria espacial moderna y continuará siendo relevante en futuras misiones espaciales.
-
----
+La física de la rotación terrestre hace del Ecuador el sitio óptimo para lanzamientos, influyendo en la geopolítica espacial 
+actual y futura
 
 ## Referencias
 
-- NASA. (2024). *Orbital Mechanics Basics*. https://www.nasa.gov
-- European Space Agency. (2023). *Launch Site Selection*. https://www.esa.int
-- McDowell, J. (2022). *Space Launch Report*. Jonathan's Space Report.
+-Noticia Latina. (2014, 16 de febrero). ¿Por qué es más ventajoso lanzar cohetes cerca del ecuador? 
+https://noticiaslatam.lat/20100216/125133250.html
+-Aceitunas u olivas. (2025, 19 de mayo). ¿Por qué despegar cerca del ecuador? 
+https://sites.google.com/site/aceitunasuolivas/p%C3%A1gina-principal/por-qu%C3%A9-despegar-cerca-del-ecuador
+-Merienda de cultura. (2021, 23 de diciembre). ¿Por qué los cohetes se lanzan cerca del ecuador del planeta? 
+https://snackdecultura.blogspot.com/2021/10/Por-que-los-cohetes-se-lanzan-cerca-del-ecuador-del-planeta.html
