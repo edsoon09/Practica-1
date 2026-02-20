@@ -1,115 +1,59 @@
-# ¿Por qué es importante el estudio de tiempos y movimientos en una línea de producción?
+ ¿Por qué es importante el estudio de tiempos y movimientos en una línea de producción?
 
-## Introducción
+Introducción.
+El estudio de tiempos y movimientos, pionero por Taylor y Gilbreth, optimiza procesos industriales al cuantificar duración
+de tareas y eficiencia de gestos, eliminando desperdicios y estableciendo estándares productivos.
 
-El estudio de tiempos y movimientos, desarrollado por Frederick Taylor y Frank Gilbreth a principios del siglo XX, es fundamental para optimizar procesos productivos. Este análisis mide cuánto tiempo lleva cada operación y cómo se realizan los movimientos, identificando ineficiencias y mejoras.
+Fundamentos del estudio.
+Tiempo estándar se determina cronometrando ciclos observados, aplicando rating (100-120%) más tolerancias (10-20%) para 
+condiciones normales. Therbligs (18 movimientos básicos: buscar, seleccionar, agarrar, alcanzar) descomponen operaciones para 
+minimizar distancias y esfuerzos.
 
-## Fundamentos del estudio
+Beneficios específicos.
 
-![Análisis de movimientos en producción](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gilbreth_time_study.jpg/400px-Gilbreth_time_study.jpg)
+1. Mejora de la productividad
+Reduce el ciclo entre un 15 y un 35 % al eliminar movimientos redundantes; estandariza ritmos de rendimiento predecibles y un 
+equilibrio de línea óptimo
 
-### Tiempo estándar
+2. Optimización de costos
+Menor tiempo/ciclo bajos costos mano de obra 20-25%; reduce la chatarra por fatiga y mejora OEE al identificar cuellos de botella.
 
-El **tiempo estándar** es la duración normal que un trabajador capacitado debe invertir en una tarea bajo condiciones estándar. Se calcula como:
+3. Seguridad laboral
+Eliminar posturas forzadas y repeticiones excesivas, cortando tasas LTI del 30-50%; La ergonomía previene los TME.
 
-**Tiempo Estándar = Tiempo Observado × Factor de Calificación + Tolerancias**
+4. Diseño de estaciones de trabajo
+Herramientas en radio 30cm, alturas antropométricas (percentil 5-95), secuencias MTM-1 fluidas.
 
-Este valor es crucial para:
-- Establecer metas de producción
-- Asignar trabajadores a estaciones
-- Calcular costos de producción
-- Planificar capacidades
+Metodología práctica.
 
-### Análisis de movimientos
+Paso 1: Seleccionar operación
+Procesos repetitivos (>1000 unidades/día) o de alto costo (>20 % de gastos generales).
 
-Se descomponen operaciones en **movimientos elementales** (therbligs):
-- **Alcanzar**, **agarrar**, **mover**, **posicionar**, **ensamblar**, **soltar**
+Paso 2: Observar y medir
+20-50 ciclos con cronómetro, videoanálisis; registrador variaciones por fatiga/ineficiencia.
 
-Identificar movimientos innecesarios permite eliminar:
-- Movimientos improductivos
-- Distancias excesivas de alcance
-- Posturas incómodas o peligrosas
+Paso 3: Analizar
+MTM/UAS se descompone; movimientos de Pareto improductivos (>80 % de tiempo perdido).
 
-## Beneficios específicos
+Paso 4: Implementar mejoras
+Nuevo diseño, capacitar, validar con estudio pre-post.
 
-### 1. Mejora de productividad
+Ejemplo numérico.
+Línea de conjunto: ciclo original 2.5 min/unidad → 17 segundos innecesarios (42 s) → optimizado 1.8 min/unidad. Mejora del 28 %. 
+Turno 8 h: +52 unidades/día.
 
-Al identificar y eliminar movimientos innecesarios:
-- **Reducción de tiempo**: 10-30% de mejora típica
-- **Mayor salida**: Más unidades producidas por hora-hombre
-- **Consistencia**: Variabilidad reducida entre operarios
+Consideraciones modernas.
+Integra lean (muda), Industria 4.0 (sincronización de IoT), simulación discreta; aplica desarrollo de software (código motion economy).
 
-### 2. Optimización de costos
+Conclusión.
+Herramienta científica cuantificable genera ROI directo vía mayor producción/menor costo; base de todas las metodologías modernas 
+de mejora continua.
 
-- **Reducción de mano de obra**: Menos horas para la misma producción
-- **Menos defectos**: Mejor control de calidad
-- **Menor fatiga**: Menos accidentes laborales
-- **Menor costo unitario**: Mejora directa de márgenes
+Referencias.
 
-### 3. Seguridad laboral
-
-El análisis identifica:
-- **Posturas ergonómicas inadecuadas**: Causas de lesiones
-- **Movimientos repetitivos excesivos**: Síndrome del túnel carpiano
-- **Riesgos identificables**: Antes de que causen daño
-
-### 4. Diseño de estaciones de trabajo
-
-Permite:
-- **Disposición óptima**: Herramientas al alcance adecuado
-- **Altura y posición**: Según antropometría del operario
-- **Secuencia lógica**: Movimientos fluidos sin interrupciones
-
-## Metodología práctica
-
-### Paso 1: Seleccionar operación
-
-Elegir tareas repetitivas, de alto volumen o problemáticas.
-
-### Paso 2: Observar y medir
-
-- Cronometar múltiples ciclos (mínimo 10-15)
-- Registrar movimientos
-- Documentar condiciones
-
-### Paso 3: Analizar
-
-- Eliminar movimientos innecesarios
-- Combinar operaciones cuando sea posible
-- Reordenar secuencias
-
-### Paso 4: Implementar mejoras
-
-- Diseñar nuevos procedimientos
-- Capacitar operarios
-- Validar tiempos mejorados
-
-## Ejemplo numérico
-
-En un proceso de empaque:
-- **Tiempo original**: 45 segundos por unidad
-- **Movimientos innecesarios identificados**: 8 segundos
-- **Tiempo mejorado**: 37 segundos por unidad
-- **Mejora**: 17.7%
-- **Impacto anual** (10.000 unidades): 22.2 horas de trabajo ahorradas
-
-## Consideraciones modernas
-
-Aunque desarrollado hace un siglo, sigue siendo relevante:
-- **Lean Manufacturing**: Basado en estos principios
-- **Six Sigma**: Utiliza análisis de tiempos para mejora
-- **Automatización**: Los estudios identifican tareas a automatizar
-
-Incluso en entornos digitales, el concepto se aplica a procesos de software.
-
-## Conclusión
-
-El estudio de tiempos y movimientos es una herramienta probada para mejorar eficiencia, reducir costos y mejorar condiciones laborales. Su aplicación sistemática genera beneficios tangibles y mensurables en operaciones de producción.
-
----
-
-## Referencias
-
-- Barnes, R. M. (2005). *Motion and Time Study: Design and Measurement of Work* (7th ed.). Wiley.
-- Niebel, B. W., et al. (2013). *Methods, Standards, and Work Design* (13th ed.). McGraw-Hill.
-- Lean Enterprise Institute. (2023). *Lean Production Fundamentals*. https://www.lean.org
+-Martínez Escobar, A. (sf). Estudio de tiempos y movimientos .
+https://adrianamartinezescobar.weebly.com/31-estudio-de-tiempos-y-movimientos.html
+-García, C. (2025). Estudio de tiempos y movimientos en la era moderna: tendencias, desafíos y oportunidades [Tesis].
+Universidad Nacional Abierta y a Distancia. https://repository.unad.edu.co/jspui/bitstream/10596/75720/1/Ccgarciase.pdf
+​-Gestiópolis. (2020, 30 de septiembre). El estudio de tiempos y movimientos: Definición y objetivos .
+https://www.gestiopolis.com/el-estudio-de-tiempos-y-movimientos/
