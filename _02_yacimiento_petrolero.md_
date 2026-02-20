@@ -1,56 +1,47 @@
-# ¿Cómo se determina si un yacimiento petrolero es comercialmente explotable?
+¿Cómo se determina si un yacimiento petrolero es comercialmente explotable?
 
-## Introducción
+Introducción.
 
-Determinar si un yacimiento petrolero es comercialmente viable requiere un análisis multidisciplinario que combina geología, ingeniería y economía. No todo depósito de petróleo es explotable; debe cumplir criterios específicos de viabilidad.
+Determinar la viabilidad comercial de un yacimiento petrolero implica evaluarreservas, propiedades de la roca y factores 
+económicos para asegurar la rentabilidad. Solo aquellos que superan umbrales técnicos y financieros se desarrollan.
 
-## Parámetros geológicos fundamentales
+Parámetros geológicos fundamentales.
 
-![Estructura de un yacimiento petrolero](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Oil_field.svg/400px-Oil_field.svg.png)
+La estimación inicial usa datos sísmicos y pozos exploratorios para calcular el volumen de aceite in situ con la fórmula: 
+Volumen = Área × Espesor neto × Porosidad × Saturación de hidrocarburos. Porosidad superior al 10-15% y permeabilidad >10 mD 
+son típicos para viabilidad; profundidades <4000 m reducen costos.
 
-### 1. Volumen de reservas
+Análisis económico.
 
-El primer paso es estimar cuánto petróleo contiene el yacimiento. Los geólogos utilizan técnicas sísmicas y perforaciones exploratorias para mapear la estructura geológica y calcular el volumen total de hidrocarburo mediante la fórmula:
-
-**Volumen = Área × Espesor × Porosidad × Saturación de petróleo**
-
-### 2. Porosidad y permeabilidad
-
-La porosidad indica el porcentaje de espacio vacío en la roca donde reside el petróleo (típicamente 15-25%). La permeabilidad mide la capacidad de la roca para permitir el flujo de fluidos. Ambas propiedades deben ser adecuadas para la extracción.
-
-### 3. Profundidad y presión
-
-Los yacimientos más profundos requieren infraestructura más costosa. La presión natural del yacimiento es crucial: si es muy baja, la extracción es difícil; si es muy alta, incrementa riesgos.
-
-## Análisis económico
-
-### Factor de recuperación
-
-Típicamente se extrae solo el **20-40%** del petróleo in situ. Un yacimiento debe contener suficientes reservas recuperables para justificar la inversión.
-
-### Costo de extracción vs. precio del petróleo
+El factor de recuperación (20-40%) determina reservas recuperables, que deben exceder 5-10 millones de barriles equivalentes 
+para justificar la inversión. Se compara el costo de extracción (<$30-50/barril) con el precio Brent futuro, calculando NPV, 
+TIR (>15%) y payback (<5 años).
 
 Un yacimiento es comercialmente viable cuando:
-- **Costo de extracción por barril < Precio de mercado del petróleo**
-- Las reservas son suficientes para amortizar la inversión inicial
-- El proyecto genera rentabilidad dentro de su vida útil esperada (15-30 años)
+- Costo de extracción por barril < Precio de mercado del petróleo.
+- Las reservas son suficientes para amortizar la inversión inicial.
+- El proyecto genera rentabilidad dentro de su vida útil esperada (15-30 años).
 
-## Evaluación técnica
+Evaluación técnica.
 
 Se consideran:
-- **Proximidad a infraestructura**: Carreteras, puertos, tuberías existentes
-- **Riesgos ambientales**: Proximidad a ecosistemas sensibles
-- **Contexto regulatorio**: Permisos, impuestos, estabilidad política
-- **Viabilidad de transporte**: ¿Es posible transportar el petróleo?
+- Proximidad a infraestructura: Carreteras, puertos, tuberías existentes
+- Riesgos ambientales: Proximidad a ecosistemas sensibles
+- Contexto regulatorio: Permisos, impuestos, estabilidad política
+- Viabilidad de transporte: ¿Es posible transportar el petróleo?
 
-## Conclusión
+Conclusión.
 
-La determinación de viabilidad comercial es un proceso complejo que requiere inversión en exploración y análisis detallado. Solo los yacimientos que cumplen criterios técnicos, económicos y regulatorios pueden ser desarrollados.
+La decisión integra geología, economía y riesgos, clasificando las reservas por PRMS/SPE solo si son comercialmente recuperables 
+bajo las tecnologías actuales
 
----
+Referencias.
 
-## Referencias
-
-- Gluyas, J., & Swarbrick, R. (2003). *Petroleum Geoscience*. Blackwell Publishing.
-- Society of Petroleum Engineers. (2023). *Resource Evaluation Handbook*.
-- Schlumberger. (2024). *Reservoir Characterization*. https://www.slb.com
+-Servicio Geológico Mexicano. (2025, 10 de marzo). Factores que controlan un yacimiento .
+https://www.sgm.gob.mx/Web/MuseoVirtual/Aplicaciones_geologicas/Factores-control-yacimiento.html
+-Petroleum AG. (2 de septiembre de 2025). Costos de capital y operativos y estudio de factibilidad: Respaldo a las propuestas técnicas
+https://petroleumag.com/costos-de-capital-y-operativos-y-estudio-de-factibilidad-respaldo-a-las-propuestas-tecnicas/
+-Diario Oficial de la Federación. (2020, 5 de febrero). Lineamientos que regulan el procedimiento para la determinación de viabilidad comercial .
+https://www.dof.gob.mx/nota_detalle_popup.php?codigo=5415426
+-Universidad Nacional Autónoma de México. (2014). Tesis: Estimación de recursos petroleros [PDF].
+https://tesiunamdocumentos.dgb.unam.mx/ptd2014/octubre/0722988/0722988.pdf
