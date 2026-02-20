@@ -1,119 +1,56 @@
-# ¿Qué es la computación en la nube y cómo ha transformado el desarrollo de software?
+¿Qué es la computación en la nube y cómo ha transformado el desarrollo de software?
 
-## Introducción
+Introducción.
+La computación en la nube entrega recursos informáticos escalables (servidores, almacenamiento, análisis) bajo demanda vía 
+Internet, eliminando infraestructura local. Revolucionó el desarrollo al reducir costos iniciales 70-90% y acelerar el tiempo de 
+comercialización de meses a horas.
 
-La computación en la nube (cloud computing) es el acceso bajo demanda a recursos informáticos (servidores, almacenamiento, bases de datos, software) a través de internet, sin necesidad de infraestructura física local. Ha revolucionado cómo se desarrolla, prueba y despliega software.
+¿Qué es la computación en la nube?
 
-## ¿Qué es la computación en la nube?
+Características fundamentales:
+Autoservicio bajo demanda, acceso ubicuo por red amplia, escalabilidad elástica, pago por uso medido, gestión automatizada por proveedor.
 
-![Arquitectura de cloud computing](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cloud_computing.svg/500px-Cloud_computing.svg.png)
+Modelos de servicio.
 
-### Características fundamentales
+-IaaS: Infraestructura virtual (AWS EC2, máquinas virtuales de Azure).
+-PaaS: Plataformas de desarrollo (Heroku, Google App Engine).
+-SaaS : Listas de aplicaciones (Office 365, Salesforce).​
 
-- **Bajo demanda**: Obtener recursos cuando se necesitan
-- **Acceso por red**: Disponible desde cualquier lugar
-- **Escalabilidad**: Aumentar/reducir recursos dinámicamente
-- **Pago por uso**: Solo pagar lo que se consume
-- **Automatización**: Gestión mínima del usuario
+Impacto en el desarrollo de software.
 
-### Modelos de servicio
+1. Eliminación de infraestructura física
+CapEx cero inicial; OPEX predecible reemplaza servidores propios ($100K+) por $0.10/hora VM.
 
-**IaaS (Infrastructure as a Service)**: Máquinas virtuales, almacenamiento, redes. Ejemplo: AWS EC2
+2. Escalabilidad automática
+Escalado automático responde a picos (Black Friday 10x tráfico) sin tiempo de inactividad; sin servidor (Lambda) cobra por ejecución más
 
-**PaaS (Platform as a Service)**: Plataformas para desarrollar aplicaciones. Ejemplo: Heroku, Google App Engine
+3. Desarrollo ágil y DevOps
+Pipelines de CI/CD (GitHub Actions, CircleCI) se despliegan cientos de veces/día; entornos de puesta en escena idénticos a prod en minutos.
 
-**SaaS (Software as a Service)**: Aplicaciones accesibles por navegador. Ejemplo: Google Workspace, Salesforce
+4. Reducción del tiempo de mercado
+Lanzamiento de MVP en días vs meses; experimentación paralela con sucursales en la nube.
 
-## Impacto en el desarrollo de software
+5. Seguridad y confiabilidad mejoradas
+99.99% SLA, geo-redundancia global, certificaciones SOC2/ISO27001 accesibles a startups.
 
-### 1. Eliminación de infraestructura física
+6. Nuevas capacidades
+API de ML (SageMaker), FaaS sin servidor, Kubernetes administrado (EKS/GKE).
 
-**Antes**: Empresas debían comprar y mantener servidores costosos
+Ejemplos de transformación.
 
-**Ahora**: Alquilan capacidad bajo demanda, reduciendo:
-- Inversión de capital en hardware
-- Costo de mantenimiento
-- Equipo técnico dedicado
+-Netflix: La migración de AWS alcanzó los 200 millones de usuarios, pruebas A/B globales
+-Spotify: GCP BigQuery procesa petabytes de listas de reproducción personalizadas.
+-Slack/Uber : Crecimiento sin servidor + PaaS sin deuda de infraestructura​
 
-### 2. Escalabilidad automática
+Desafíos y consideraciones.
+Dependencia del proveedor, costos sorpresa (transferencia de datos), latencia de la computación en el borde, soberanía de datos RGPD.
 
-La nube permite que aplicaciones crezcan sin límite:
-- **Startup pequeño**: Comienza con recursos mínimos, $50/mes
-- **Crecimiento**: Escala automáticamente sin cambios de código
-- **Carga variable**: Se ajusta automáticamente a picos de demanda
+Conclusión.
+La nube democratizó la innovación: las startups compiten con gigantes vía acceso instantáneo a infraestructura de nivel empresarial. 
+Devops moderno inseparable de la arquitectura nativa de la nube.
 
-Sin nube: requeriría rediseño de infraestructura.
+Referencias.
 
-### 3. Desarrollo ágil y DevOps
-
-La nube facilita:
-- **Entornos de prueba**: Crear ambientes idénticos a producción fácilmente
-- **Integración continua**: Despliegues automáticos múltiples veces al día
-- **Testing**: Realizado en infraestructura real, no simulada
-- **Colaboración**: Equipos distribuidas pueden acceder a las mismas herramientas
-
-### 4. Reducción del tiempo de mercado
-
-- **Tiempo de instalación**: De semanas a minutos
-- **Experimentación**: Probar ideas rápidamente con bajo riesgo
-- **Rollback**: Volver a versión anterior instantáneamente
-
-Una startup puede lanzar producto en días, no meses.
-
-### 5. Seguridad y confiabilidad mejorada
-
-Proveedores de nube (AWS, Google, Azure):
-- **Redundancia**: Múltiples centros de datos
-- **Encriptación**: A nivel empresarial
-- **Cumplimiento normativo**: Certificaciones de seguridad
-- **Actualizaciones**: Automáticas, sin intervención del usuario
-
-Empresas pequeñas ahora tienen seguridad de nivel empresarial.
-
-### 6. Nuevas capacidades
-
-Servicios en la nube permiten funcionalidades antes inaccesibles:
-- **Machine Learning**: Modelos pre-entrenados disponibles
-- **Big Data**: Procesamiento de datos masivos
-- **Inteligencia artificial**: APIs listas para usar
-- **Serverless**: Código que escala sin gestionar servidores
-
-## Ejemplos de transformación
-
-### Netflix
-Migración de centros de datos propios a AWS permitió:
-- Escalar a millones de usuarios simultáneos
-- Implementar recomendaciones personalizadas
-- Reducir costo operacional significativamente
-
-### Spotify
-Usa Google Cloud para:
-- Procesar millones de streams diarios
-- Generar playlists personalizadas
-- Mantener servicio 99.99% disponible
-
-### Startups
-Empresas como Slack, Airbnb, Uber fueron posibles porque:
-- No necesitaban invertir en infraestructura inicial
-- Podían escalar sin límite
-- Enfocarse en producto, no en IT
-
-## Desafíos y consideraciones
-
-- **Vendor lock-in**: Dificultad para cambiar de proveedor
-- **Costo**: Mal planificado, puede exceder presupuesto
-- **Latencia**: Crítica para aplicaciones en tiempo real
-- **Privacidad**: Datos en servidores de terceros
-
-## Conclusión
-
-La computación en la nube ha democratizado el acceso a infraestructura de clase mundial, permitiendo que cualquier empresa, independientemente de tamaño, pueda desarrollar y desplegar software moderno, escalable y confiable. Ha transformado el desarrollo de software de una disciplina que requería grandes inversiones iniciales a un modelo flexible, escalable y accesible.
-
----
-
-## Referencias
-
-- Armbrust, M., et al. (2010). *A View of Cloud Computing*. Communications of the ACM, 53(4), 50-58.
-- AWS. (2024). *Cloud Computing Essentials*. https://aws.amazon.com
-- Vogels, W. (2023). *Architecting for the Cloud*. All Things Distributed Blog.
-- Microsoft Azure. (2024). *Cloud Fundamentals*. https://azure.microsoft.com
+-Google Cloud. (12 de febrero de 2026). ¿Qué es la computación en la nube? https://cloud.google.com/learn/what-is-cloud-computing?hl=es​
+-IBM. (2024). ¿Qué es la computación en la nube? https://www.ibm.com/mx-es/think/topics/cloud-computing
+-Atlassian. (2023). ¿Qué es la computación en la nube? https://www.atlassian.com/es/microservices/cloud-computing
