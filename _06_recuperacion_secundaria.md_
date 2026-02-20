@@ -1,94 +1,73 @@
-# ¿Qué métodos de recuperación secundaria se utilizan cuando la presión natural del yacimiento disminuye?
+¿Qué métodos de recuperación secundaria se utilizan cuando la presión natural del yacimiento disminuye?
 
-## Introducción
+Introducción.
 
-Después de la recuperación primaria (donde la presión natural extrae 10-20% del petróleo), la presión del yacimiento disminuye significativamente. La recuperación secundaria utiliza métodos activos para mantener presión y extraer más hidrocarburo, aumentando la extracción hasta 30-40% del original.
+Tras la recuperación primaria (5-25% OOIP), la caída de presión detiene el flujo natural; la secundaria inyecta fluidos externos 
+para reponer energía hidráulica, elevando recobro total un 30-50% mediante desplazamiento forzoso.
 
-## Recuperación primaria vs secundaria
+Recuperación primaria vs. secundaria
+La primaria depende de energía disuelta, casquete o gravedad; al agotarse, producción colapsa. Secundaria inyecta agua/gas para
+eficiencia de barrido, manteniendo presión sobrebalanceada y desplazando a pozos productores de petróleo vía patrones 5-spot o 
+periféricos.
 
-![Métodos de extracción de petróleo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Oil_production_methods.svg/500px-Oil_production_methods.svg.png)
+Método 1: Inyección de agua
+Principios:
+Inyección de agua (WFI) forma frente estable que empuja petróleo; más usado globalmente (60-80% proyectos), compatible con formaciones
+clásicas/carbonatadas.​
 
-En la **recuperación primaria**, el petróleo fluye naturalmente por diferencia de presión. Cuando esta presión cae, fluye lentamente y se detiene.
+Ventajas:
 
-La **recuperación secundaria** inyecta fluidos para:
-- Mantener la presión del yacimiento
-- Desplazar petróleo hacia los pozos productores
-- Permitir extracción adicional de 15-20% más
+-Costo bajo (~$5-10/bbl incremental).
+-Disponibilidad universal, reciclable.
+-Madurez tecnológica probada.
 
-## Método 1: Inyección de agua
+Desventajas:
 
-### Principios
+-Avance prematuro (conificación >95% WOR).
+-Obstrucción por partículas/bacterias.
+-Corrosión/SRB en acero.
 
-Es el método más utilizado (80% de los proyectos de recuperación secundaria). El agua se inyecta a través de pozos inyectores, desplazando el petróleo hacia pozos productores.
+Proceso:
+Patrones lineales/periféricos; ratio de movilidad <1 ideal; tratamiento con biocidas/polímeros previene problemas.
 
-### Ventajas
+Método 2: Inyección de gas
+Aplicación:
+Gas natural/CO₂/nitrógeno en casquetes o miscibilidad parcial; menos común (20% en proyectos) pero efectivo en yacimientos con 
+tapa de gas.​
 
-- **Bajo costo**: El agua es económica y disponible
-- **Eficacia demostrada**: Incrementa recuperación 10-15%
-- **Sencillo de implementar**: Infraestructura estándar
-- **Sostenible**: El agua puede ser reciclada de la producción
+Ventajas:
 
-### Desventajas
+-Barrido optimizado de gas de baja viscosidad.
+-Mantenimiento de presión + hinchamiento de petróleo
+-CO₂ EOR híbrido.
 
-- **Conificación de agua**: El agua sube hacia el pozo productor prematuramente
-- **Requiere tratamiento**: El agua debe ser filtrada para no taponar poros
-- **Corrosión**: El agua causa corrosión en tuberías y equipos
+Desventajas:
 
-### Proceso
+-Alto costo de compresión (15-25 $/bbl).
+-Canalización/anulación por gravedad
+-Pérdidas por zonas de ladrones.
 
-El agua se inyecta en los márgenes del yacimiento (inyección periférica) o en patrones sistemáticos (inyección en patrón) para desplazar óleo eficientemente.
+Método 3: Combinación de métodos
+Los ciclos WAG (Agua Alternativa Gas) optimizan la movilidad/barrido de volumen; SWAG maximiza el contacto simultáneo en pozos duales.
 
-## Método 2: Inyección de gas
+Infraestructura requerida.
 
-### Aplicación
+Compresores (1000-5000 psi), tuberías de agua/gas tratadas, espaciamiento entre inyectores/reproductores de 300-800 m, SCADA para 
+seguimiento frontal.
+​
+Economía de la recuperación secundaria.
 
-Se inyecta gas natural o CO₂ para mantener presión y desplazar petróleo. Menos común que inyección de agua pero muy efectiva.
+Viable si VPN > 0, TIR > 15%, recuperación < 3 años; OPEX 3-12 $/bbl frente a 70 $+ Brent; reutilización de instalaciones primarias.​
 
-### Ventajas
+Conclusión.
 
-- **Mayor movilidad**: El gas desplaza petróleo más eficientemente
-- **Recuperación adicional**: 5-10% más que solo agua
-- **CO₂ ambiental**: El CO₂ capturado se utiliza productivamente
+Inyección agua domina por economía/escala; gas/WAG para reservas específicas. Secundaria puente esencial a EOR terciaria en campos 
+maduros.
 
-### Desventajas
+Referencias.
 
-- **Costo elevado**: Gas comprimido es costoso
-- **Riesgos técnicos**: Control del gas es complejo
-- **Pérdida de gas**: Fugas a través de fracturas naturales
-
-## Método 3: Combinación de métodos
-
-Muchos yacimientos utilizan:
-- **Inyección alternada**: Periodos de agua, luego gas
-- **Inyección simultánea**: Agua y gas juntos
-- **WAG (Water-Alternating-Gas)**: Métodos alternos para máxima eficiencia
-
-## Infraestructura requerida
-
-Para recuperación secundaria se necesita:
-- **Estación de inyección**: Equipos de compresión/presurización
-- **Pozos inyectores**: Infraestructura dedicada
-- **Tuberías**: Redes de transporte del fluido de inyección
-- **Tratamiento**: Instalaciones de filtración y acondicionamiento
-- **Monitoreo**: Sistemas para seguimiento de presión y producción
-
-## Economía de la recuperación secundaria
-
-El proyecto es viable cuando:
-- Incremento de producción > Costo operacional
-- Vida útil restante del yacimiento justifica inversión
-- Infraestructura existente puede reutilizarse
-
-Típicamente, cada barril adicional cuesta 5-15 USD de operación.
-
-## Conclusión
-
-La recuperación secundaria es esencial en la industria petrolera moderna. La inyección de agua es dominante por su costo-efectividad, mientras que métodos combinados ofrecen mejor rendimiento en yacimientos complejos.
-
----
-
-## Referencias
-
-- Thomas, J. E. (2001). *Fundamentos de Ingeniería de Petróleo*. Interciencia.
-- Society of Petroleum Engineers. (2023). *Secondary Recovery Handbook*.
-- USGS. (2023). *Enhanced Oil Recovery Methods*. https://www.usgs.gov
+-Schlumberger. (2020, 7 de junio). Recuperación secundaria .https://glossary.oilfield.slb.com/es/terms/s/secondary_recovery
+-Muñoz Salinas, E., & Tercero Conterón, J. (2022). Selección del proceso de recuperación secundaria óptimo para ser 
+aplicado en la arena U del Campo ESPOL [Tesis de maestría, ESPOL]. https://dspace.espol.edu.ec/handle/123456789/55725
+-Ecoprenursa. (2025, 29 de abril). Oil & Gas: ¿Cómo lograr una recuperación secundaria de petróleo? 
+https://contenidos.ecopreneursa.com/ecopreneursa-blog/recuperacion-de-petroleo-gas-secundaria-petroleo
